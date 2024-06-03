@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/raoofnaushad-eng/static/css/main.7255d2ff.css",
-    "main.js": "/raoofnaushad-eng/static/js/main.8ac84433.js",
+    "main.js": "/raoofnaushad-eng/static/js/main.96a31fef.js",
     "static/js/453.acca0757.chunk.js": "/raoofnaushad-eng/static/js/453.acca0757.chunk.js",
     "static/media/banner-bg.png": "/raoofnaushad-eng/static/media/banner-bg.ced2bd7c7d1622ce30ff.png",
     "static/media/project-img1.png": "/raoofnaushad-eng/static/media/project-img1.db47d7d3b14bfb25f80b.png",
     "static/media/project-img5.png": "/raoofnaushad-eng/static/media/project-img5.c040c57685a7019bc284.png",
+    "static/media/raoof.png": "/raoofnaushad-eng/static/media/raoof.8703be99e056583a05e4.png",
     "static/media/project-img8.png": "/raoofnaushad-eng/static/media/project-img8.d7e9db40215294250220.png",
     "static/media/project-img9.png": "/raoofnaushad-eng/static/media/project-img9.f682357e7af7624c8da4.png",
     "static/media/project-img4.png": "/raoofnaushad-eng/static/media/project-img4.6e30177d32422b759079.png",
@@ -16,7 +17,6 @@
     "static/media/project-img2.png": "/raoofnaushad-eng/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img10.png": "/raoofnaushad-eng/static/media/project-img10.1abfa91efaac0b0b4b57.png",
     "static/media/project-img7.png": "/raoofnaushad-eng/static/media/project-img7.82e95ff35b798dadd4f2.png",
-    "static/media/raoof.png": "/raoofnaushad-eng/static/media/raoof.55dab1e3ed158876038a.png",
     "static/media/revicons.eot": "/raoofnaushad-eng/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/raoofnaushad-eng/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/meter1.svg": "/raoofnaushad-eng/static/media/meter1.d6232ccecd585061515b56f1d688e97a.svg",
@@ -31,11 +31,11 @@
     "static/media/nav-icon1.svg": "/raoofnaushad-eng/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/nav-icon4.svg": "/raoofnaushad-eng/static/media/nav-icon4.b570ceeff75fcbed18c1a4970d80d923.svg",
     "main.7255d2ff.css.map": "/raoofnaushad-eng/static/css/main.7255d2ff.css.map",
-    "main.8ac84433.js.map": "/raoofnaushad-eng/static/js/main.8ac84433.js.map",
+    "main.96a31fef.js.map": "/raoofnaushad-eng/static/js/main.96a31fef.js.map",
     "453.acca0757.chunk.js.map": "/raoofnaushad-eng/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7255d2ff.css",
-    "static/js/main.8ac84433.js"
+    "static/js/main.96a31fef.js"
   ]
 }
