@@ -1,16 +1,41 @@
 {
   "files": {
-    "main.css": "/raoofnaushad-eng/static/css/main.f855e6bc.css",
-    "main.js": "/raoofnaushad-eng/static/js/main.ddcda5b6.js",
+    "main.css": "/raoofnaushad-eng/static/css/main.7255d2ff.css",
+    "main.js": "/raoofnaushad-eng/static/js/main.8ac84433.js",
     "static/js/453.acca0757.chunk.js": "/raoofnaushad-eng/static/js/453.acca0757.chunk.js",
-    "static/media/logo.svg": "/raoofnaushad-eng/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/banner-bg.png": "/raoofnaushad-eng/static/media/banner-bg.ced2bd7c7d1622ce30ff.png",
+    "static/media/project-img1.png": "/raoofnaushad-eng/static/media/project-img1.db47d7d3b14bfb25f80b.png",
+    "static/media/project-img5.png": "/raoofnaushad-eng/static/media/project-img5.c040c57685a7019bc284.png",
+    "static/media/project-img8.png": "/raoofnaushad-eng/static/media/project-img8.d7e9db40215294250220.png",
+    "static/media/project-img9.png": "/raoofnaushad-eng/static/media/project-img9.f682357e7af7624c8da4.png",
+    "static/media/project-img4.png": "/raoofnaushad-eng/static/media/project-img4.6e30177d32422b759079.png",
+    "static/media/CentraNo2-Bold.ttf": "/raoofnaushad-eng/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/raoofnaushad-eng/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/raoofnaushad-eng/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img6.png": "/raoofnaushad-eng/static/media/project-img6.1119483c770428d707a1.png",
+    "static/media/project-img2.png": "/raoofnaushad-eng/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img10.png": "/raoofnaushad-eng/static/media/project-img10.1abfa91efaac0b0b4b57.png",
+    "static/media/project-img7.png": "/raoofnaushad-eng/static/media/project-img7.82e95ff35b798dadd4f2.png",
+    "static/media/raoof.png": "/raoofnaushad-eng/static/media/raoof.55dab1e3ed158876038a.png",
+    "static/media/revicons.eot": "/raoofnaushad-eng/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/raoofnaushad-eng/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/meter1.svg": "/raoofnaushad-eng/static/media/meter1.d6232ccecd585061515b56f1d688e97a.svg",
+    "static/media/contact-img.svg": "/raoofnaushad-eng/static/media/contact-img.fd5db70440f42a061ce313a2cc8af748.svg",
+    "static/media/revicons.woff": "/raoofnaushad-eng/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/raoofnaushad-eng/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter3.svg": "/raoofnaushad-eng/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/nav-icon3.svg": "/raoofnaushad-eng/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/nav-icon5.svg": "/raoofnaushad-eng/static/media/nav-icon5.875324b22ffe17ec8af8c8721cb80fe3.svg",
+    "static/media/nav-icon2.svg": "/raoofnaushad-eng/static/media/nav-icon2.d6776cddd18d0d7660c37acd6d8b4069.svg",
     "index.html": "/raoofnaushad-eng/index.html",
-    "main.f855e6bc.css.map": "/raoofnaushad-eng/static/css/main.f855e6bc.css.map",
-    "main.ddcda5b6.js.map": "/raoofnaushad-eng/static/js/main.ddcda5b6.js.map",
+    "static/media/nav-icon1.svg": "/raoofnaushad-eng/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon4.svg": "/raoofnaushad-eng/static/media/nav-icon4.b570ceeff75fcbed18c1a4970d80d923.svg",
+    "main.7255d2ff.css.map": "/raoofnaushad-eng/static/css/main.7255d2ff.css.map",
+    "main.8ac84433.js.map": "/raoofnaushad-eng/static/js/main.8ac84433.js.map",
     "453.acca0757.chunk.js.map": "/raoofnaushad-eng/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ddcda5b6.js"
+    "static/css/main.7255d2ff.css",
+    "static/js/main.8ac84433.js"
   ]
 }
